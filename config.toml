@@ -1,0 +1,14 @@
+title = "Evgeny Sherkunov Ruby and Ruby on Rails developer"
+baseurl = "http://esherkunov.ru"
+languageCode = "ru-ru"
+theme = "cocoa"
+
+[params]
+avatar = "images/esherkunov.png"
+author = "Evgeny Sherkunov"
+description = "Ruby and Ruby on Rails developer"
+selfIntro = "Ruby on Rails developer"
+
+email = "esherkunov@gmail.com"
+github = "https://github.com/esherkunov"
+linkedin = "https://linkedin.com/in/esherkunov"
