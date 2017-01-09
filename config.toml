@@ -10,5 +10,6 @@ description = "Ruby and Ruby on Rails developer"
 selfIntro = "Ruby on Rails developer"
 
 email = "esherkunov@gmail.com"
-github = "https://github.com/esherkunov"
-linkedin = "https://linkedin.com/in/esherkunov"
+github = "//github.com/esherkunov"
+linkedin = "//linkedin.com/in/esherkunov"
+telegram = "//t.me/esherkunov"
