@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:esherkunov/esherkunov.github.io.git
 	branch = origin/master
+[submodule "themes/cocoa"]
+	path = themes/cocoa
+	url = git@github.com:esherkunov/cocoa-hugo-theme.git
